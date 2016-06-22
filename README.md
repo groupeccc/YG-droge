@@ -2,7 +2,7 @@
  YG-droge is a fork from W-droge, a typeface designed by Open Source Publishing http://osp.kitchen. It was designed by groupe CCC (Alice Gavin & Valentin Bigel) for Young Gutted's EP, published by Earnest Endavours Recordings.
 
 ##Specimen
-![yg-droge1](https://github.com/groupeccc/YG-droge/blob/master/documentation/yg-droge.svg)
+![yg-droge1](hhttps://rawgit.com/groupeccc/YG-droge/blob/master/documentation/yg-droge.svg)
 
 
 ## License
